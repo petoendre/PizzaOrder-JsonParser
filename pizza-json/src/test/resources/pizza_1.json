@@ -1,0 +1,8 @@
+{
+	"ingredients":{
+		"ingredients_A":false,
+		"ingredients_B":true,
+		"ingredients_C":false,
+		"ingredients_D":false
+	}
+}

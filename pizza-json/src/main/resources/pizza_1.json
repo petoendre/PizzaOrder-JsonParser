@@ -1,0 +1,15 @@
+{
+	"ingredients":{
+		"ingredients_A":false,
+		"ingredients_B":false,
+		"ingredients_C":true,
+		"ingredients_D":true,
+		"ingredients_E":false,
+		"ingredients_F":false,
+		"ingredients_G":true,
+		"ingredients_H":true,
+		"ingredients_I":false,
+		"ingredients_J":true,
+		"ingredients_K":true
+	}
+}
